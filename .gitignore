@@ -4,6 +4,11 @@
 # Log file
 *.log
 
+# Git
+*.gitattributes
+*.gitignore
+/.git
+
 # BlueJ files
 *.ctxt
 
